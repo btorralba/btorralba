@@ -5,7 +5,7 @@ My name is Brandon Torralba and I am currently a senior at the University of St.
 ## Overview
 The purpose of this reposistory is for the [Signature Work Portfolio](https://github.com/btorralba/CISC480-Portfolio) in CISC 480. Contained in the portfolio is 3 projects:
 1. [Summa Cum Laude Thesis](https://github.com/btorralba/CISC480-Portfolio/SummaProject)
-2. [torr4112.github.io](https://github.com/btorralba/CISC480-Portfolio/torr4112.github.io)
+2. [torr4112.github.io](https://github.com/btorralba/CISC480-Portfolio/tree/main/torr4112.github.io)
 3. [Tommie Coin](https://github.com/btorralba/CISC480-Portfolio/torr4112.github.io)
 
 ## Reflection
